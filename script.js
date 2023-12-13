@@ -1241,3 +1241,4 @@ window.onload = function() {
     document.body.insertBefore(redirectButton, sendEmailButton);
     const redirectButtonTable = table.previousElementSibling;
 };
+    
